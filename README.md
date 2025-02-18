@@ -1,6 +1,6 @@
 <h1 align="center"> 📖 About me</h1>
 
-<p align="center"> 🎓 | I'm Andrew, an aspiring software developer with a strong desire to learn more about DevOps engineering, currently pursuing my Ontario College Advanced Diploma in Computer Programming & Analysis. </p>
+<p align="center"> 🎓 | I'm Andrew, an aspiring software developer with a strong desire to learn more about DevOps engineering, and Database Administration. </p>
 
 <p align="center"> 🏫 | Throughout my 3 year tenure in a post-secondary institution, I have familiarized myself with many programming languages, and I am eager to learn more as I advance further into my career as a Software Developer. My all-time favourite programming language is C#. </p>
 
